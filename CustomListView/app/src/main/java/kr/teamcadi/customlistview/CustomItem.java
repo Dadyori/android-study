@@ -16,5 +16,5 @@ public class CustomItem {
     String last_time;
 
     //getter, setter (art+insert)
-    //lombok 적용해보자
+    //lombok 적용해서 getter, setter 없애주었다.
 }
